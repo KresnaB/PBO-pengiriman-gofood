@@ -1,0 +1,21 @@
+{"xref": {
+  "whenMade": 1574678231015,
+  "createdBy": "JBehave",
+  "metaFilter": "-skip -ignore",
+  "meta": [],
+  "stories": [
+    {
+      "description": "Finding nearest driver based on merchant's location",
+      "narrative": "In order to get optimal delivery time\u000aAs a customer\u000aI want to find the nearest driver from merchant's location\u000a",
+      "name": "pengiriman_gofood.story",
+      "path": "stories/driver/pengiriman_gofood.story",
+      "html": "stories.driver.pengiriman_gofood.html",
+      "meta": "",
+      "scenarios": "Scenario:Find the nearest driver\u000aGiven a list of drivers : Jono, Kasino, Dono\u000aWhen The distances between these drivers and the merchant location are : 1.5, 2, 0.5\u000aThen The sistem should pick : Dono\u000a\u000a\u000a",
+      "passed": true,
+      "started": 1574678228951,
+      "duration": 595
+    }
+  ],
+  "stepMatches": []
+}}

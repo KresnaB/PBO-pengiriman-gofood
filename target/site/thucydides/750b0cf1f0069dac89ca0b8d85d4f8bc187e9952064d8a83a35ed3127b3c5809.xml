@@ -1,0 +1,16 @@
+<acceptance-test-run title="Find the nearest driver" name="Find the nearest driver" steps="3" successful="0" failures="0" skipped="0" ignored="0" pending="3" result="PENDING" duration="373" timestamp="2019-11-25T17:37:09.031+07:00">
+  <user-story id="pengiriman_gofood" name="Pengiriman gofood" path="stories/driver/pengiriman_gofood.story"/>
+  <tags>
+    <tag name="Driver" type="capability"/>
+    <tag name="Pengiriman gofood" type="story"/>
+  </tags>
+  <test-step result="PENDING" duration="4">
+    <description>Given a list of drivers : Jono, Kasino, Dono</description>
+  </test-step>
+  <test-step result="PENDING" duration="0">
+    <description>When The distances between these drivers and the merchant location are : 1.5, 2, 0.5</description>
+  </test-step>
+  <test-step result="PENDING" duration="0">
+    <description>Then The sistem should pick : Dono</description>
+  </test-step>
+</acceptance-test-run>

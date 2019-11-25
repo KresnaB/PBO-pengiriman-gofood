@@ -1,0 +1,30 @@
+<xref>
+  <whenMade>1574678231015</whenMade>
+  <createdBy>JBehave</createdBy>
+  <metaFilter>-skip -ignore</metaFilter>
+  <meta/>
+  <stories>
+    <story>
+      <description>Finding nearest driver based on merchant&apos;s location</description>
+      <narrative>In order to get optimal delivery time
+As a customer
+I want to find the nearest driver from merchant&apos;s location
+</narrative>
+      <name>pengiriman_gofood.story</name>
+      <path>stories/driver/pengiriman_gofood.story</path>
+      <html>stories.driver.pengiriman_gofood.html</html>
+      <meta></meta>
+      <scenarios>Scenario:Find the nearest driver
+Given a list of drivers : Jono, Kasino, Dono
+When The distances between these drivers and the merchant location are : 1.5, 2, 0.5
+Then The sistem should pick : Dono
+
+
+</scenarios>
+      <passed>true</passed>
+      <started>1574678228951</started>
+      <duration>595</duration>
+    </story>
+  </stories>
+  <stepMatches/>
+</xref>

@@ -1,0 +1,30 @@
+<story path="stories/driver/pengiriman_gofood.story" title="Finding nearest driver based on merchant&apos;s location">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="In order to">get optimal delivery time</inOrderTo>
+  <asA keyword="As a">customer</asA>
+  <iWantTo keyword="I want to">find the nearest driver from merchant&apos;s location</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="Find the nearest driver">
+<step outcome="pending" keyword="PENDING">Given a list of drivers : Jono, Kasino, Dono</step>
+<step outcome="pending" keyword="PENDING">When The distances between these drivers and the merchant location are : 1.5, 2, 0.5</step>
+<step outcome="pending" keyword="PENDING">Then The sistem should pick : Dono</step>
+<pendingMethod>@Given(&quot;a list of drivers : Jono, Kasino, Dono&quot;)
+@Pending
+public void givenAListOfDriversJonoKasinoDono() {
+  // PENDING
+}
+</pendingMethod>
+<pendingMethod>@When(&quot;The distances between these drivers and the merchant location are : 1.5, 2, 0.5&quot;)
+@Pending
+public void whenTheDistancesBetweenTheseDriversAndTheMerchantLocationAre15205() {
+  // PENDING
+}
+</pendingMethod>
+<pendingMethod>@Then(&quot;The sistem should pick : Dono&quot;)
+@Pending
+public void thenTheSistemShouldPickDono() {
+  // PENDING
+}
+</pendingMethod>
+</scenario>
+</story>
