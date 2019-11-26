@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="com.gojek.gofood.jbehave.AcceptanceTestSuite" time="2.904" errors="0" skipped="3">
+<testsuite tests="7" failures="0" name="com.gojek.gofood.jbehave.AcceptanceTestSuite" time="2.011" errors="0" skipped="3">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\bin"/>
@@ -65,17 +65,17 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="java.lang.Object" name="BeforeStories" time="0.021"/>
-  <testcase classname="[PENDING] Given a list of drivers : Jono\u002C Kasino\u002C Dono" name="[PENDING] Given a list of drivers : Jono\u002C Kasino\u002C Dono" time="0.323">
+  <testcase classname="java.lang.Object" name="BeforeStories" time="0.013"/>
+  <testcase classname="[PENDING] Given a list of drivers : Jono\u002C Kasino\u002C Dono" name="[PENDING] Given a list of drivers : Jono\u002C Kasino\u002C Dono" time="0.251">
     <skipped/>
   </testcase>
-  <testcase classname="[PENDING] When The distances between these drivers and the merchant location are : 1.5\u002C 2\u002C 0.5" name="[PENDING] When The distances between these drivers and the merchant location are : 1.5\u002C 2\u002C 0.5" time="0.324">
+  <testcase classname="[PENDING] When The distances between these drivers and the merchant location are : 1.5\u002C 2\u002C 0.5" name="[PENDING] When The distances between these drivers and the merchant location are : 1.5\u002C 2\u002C 0.5" time="0.253">
     <skipped/>
   </testcase>
-  <testcase classname="[PENDING] Then The sistem should pick : Dono" name="[PENDING] Then The sistem should pick : Dono" time="0.325">
+  <testcase classname="[PENDING] Then The sistem should pick : Dono" name="[PENDING] Then The sistem should pick : Dono" time="0.255">
     <skipped/>
   </testcase>
-  <testcase classname="Scenario: Find the nearest driver" name="Scenario: Find the nearest driver" time="0.485"/>
-  <testcase classname="pengiriman_gofood.story" name="pengiriman_gofood.story" time="0.488"/>
-  <testcase classname="java.lang.Object" name="AfterStories" time="0.87"/>
+  <testcase classname="Scenario: Find the nearest driver" name="Scenario: Find the nearest driver" time="0.387"/>
+  <testcase classname="pengiriman_gofood.story" name="pengiriman_gofood.story" time="0.39"/>
+  <testcase classname="java.lang.Object" name="AfterStories" time="0.62"/>
 </testsuite>

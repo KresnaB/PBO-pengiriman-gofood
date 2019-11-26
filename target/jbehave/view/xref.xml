@@ -1,5 +1,5 @@
 <xref>
-  <whenMade>1574678231015</whenMade>
+  <whenMade>1574728693654</whenMade>
   <createdBy>JBehave</createdBy>
   <metaFilter>-skip -ignore</metaFilter>
   <meta/>
@@ -22,8 +22,8 @@ Then The sistem should pick : Dono
 
 </scenarios>
       <passed>true</passed>
-      <started>1574678228951</started>
-      <duration>595</duration>
+      <started>1574728692257</started>
+      <duration>464</duration>
     </story>
   </stories>
   <stepMatches/>

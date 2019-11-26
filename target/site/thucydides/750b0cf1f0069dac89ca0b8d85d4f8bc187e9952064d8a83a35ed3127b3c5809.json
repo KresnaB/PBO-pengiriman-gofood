@@ -8,8 +8,8 @@
   "skipped": "0",
   "ignored": "0",
   "pending": "3",
-  "duration": "373",
-  "timestamp": "2019-11-25T17:37:09.031+07:00",
+  "duration": "298",
+  "timestamp": "2019-11-26T07:38:12.305+07:00",
   "user-story": {
     "qualifiedStoryClassName": "pengiriman_gofood",
     "storyName": "Pengiriman gofood",
@@ -32,7 +32,7 @@
       "number": 1,
       "description": "Given a list of drivers : Jono, Kasino, Dono",
       "duration": 4,
-      "startTime": 1574678229392,
+      "startTime": 1574728692590,
       "screenshots": [],
       "result": "PENDING",
       "children": []
@@ -40,8 +40,8 @@
     {
       "number": 2,
       "description": "When The distances between these drivers and the merchant location are : 1.5, 2, 0.5",
-      "duration": 0,
-      "startTime": 1574678229398,
+      "duration": 1,
+      "startTime": 1574728692596,
       "screenshots": [],
       "result": "PENDING",
       "children": []
@@ -49,8 +49,8 @@
     {
       "number": 3,
       "description": "Then The sistem should pick : Dono",
-      "duration": 0,
-      "startTime": 1574678229399,
+      "duration": 1,
+      "startTime": 1574728692597,
       "screenshots": [],
       "result": "PENDING",
       "children": []
